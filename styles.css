@@ -4,6 +4,8 @@ color: whitesmoke;
 padding: 25px;
 }
 h3 {
-    color: orangered;
+    color: royalblue;
 }
-/* Added a comment /*
+.Header1 {
+    color: green
+}
